@@ -1,0 +1,17 @@
+{
+  "main.js": "/docker-swarm-kubernetes-presentation/static/js/main.6b926117.chunk.js",
+  "main.js.map": "/docker-swarm-kubernetes-presentation/static/js/main.6b926117.chunk.js.map",
+  "static/css/1.d4bb1813.chunk.css": "/docker-swarm-kubernetes-presentation/static/css/1.d4bb1813.chunk.css",
+  "static/js/1.419bfba7.chunk.js": "/docker-swarm-kubernetes-presentation/static/js/1.419bfba7.chunk.js",
+  "static/js/1.419bfba7.chunk.js.map": "/docker-swarm-kubernetes-presentation/static/js/1.419bfba7.chunk.js.map",
+  "runtime~main.js": "/docker-swarm-kubernetes-presentation/static/js/runtime~main.1b7158ad.js",
+  "runtime~main.js.map": "/docker-swarm-kubernetes-presentation/static/js/runtime~main.1b7158ad.js.map",
+  "static/media/docker-minimal.png": "/docker-swarm-kubernetes-presentation/static/media/docker-minimal.aa0359ed.png",
+  "static/media/modular.png": "/docker-swarm-kubernetes-presentation/static/media/modular.25cae1a8.png",
+  "static/media/confused.jpg": "/docker-swarm-kubernetes-presentation/static/media/confused.afb0fe03.jpg",
+  "static/media/containerized-apps.png": "/docker-swarm-kubernetes-presentation/static/media/containerized-apps.a5ed9c79.png",
+  "static/css/1.d4bb1813.chunk.css.map": "/docker-swarm-kubernetes-presentation/static/css/1.d4bb1813.chunk.css.map",
+  "index.html": "/docker-swarm-kubernetes-presentation/index.html",
+  "precache-manifest.674d869002861da905b18a5b26f53dfb.js": "/docker-swarm-kubernetes-presentation/precache-manifest.674d869002861da905b18a5b26f53dfb.js",
+  "service-worker.js": "/docker-swarm-kubernetes-presentation/service-worker.js"
+}
