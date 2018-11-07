@@ -1,8 +1,8 @@
 {
-  "name": "react-presentations",
+  "name": "docker-swarm-kubernetes-presentation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ryanlafferty.github.io/react-presentations/",
+  "homepage": "http://ryanlafferty.github.io/docker-swarm-kubernetes-presentation/",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
