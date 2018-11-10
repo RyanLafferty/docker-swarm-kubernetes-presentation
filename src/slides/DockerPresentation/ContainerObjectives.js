@@ -3,7 +3,7 @@ import {
   Appear, Heading, ListItem, List, Slide
 } from 'spectacle';
 
-import modular from './../../res/img/DockerPresentation/modular.png';
+import modular from './../../res/img/DockerPresentation/vm-vs-container.jpg';
         
 
 const ContainerObjectives = (
