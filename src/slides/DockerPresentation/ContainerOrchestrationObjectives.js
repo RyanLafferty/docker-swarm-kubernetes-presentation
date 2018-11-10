@@ -3,11 +3,11 @@ import {
   Appear, Heading, ListItem, List, Slide
 } from 'spectacle';
 
-import modular from './../../res/img/DockerPresentation/modular.png';
+import modular from './../../res/img/DockerPresentation/container-orchestration-objectives.jpg';
 
 
 const ContainerOrchestrationObjectives = (
-  <Slide  transition={["slide"]} bgDarken={0.85} bgImage={modular}>
+  <Slide  transition={["slide"]} bgDarken={0.75} bgImage={modular}>
     <Heading caps fit textColor="tertiary">
       Container Orchestration Objectives
     </Heading>

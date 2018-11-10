@@ -3,7 +3,7 @@ import {
   Heading, Slide, Text
 } from 'spectacle';
 
-import docker from './../../res/img/DockerPresentation/docker-minimal.png';
+import docker from './../../res/img/DockerPresentation/container-orchestration-tools.jpg';
 
 
 const ContainerOrchestration = (

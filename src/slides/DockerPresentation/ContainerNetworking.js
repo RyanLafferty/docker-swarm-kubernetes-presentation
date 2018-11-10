@@ -3,11 +3,11 @@ import {
   Heading, Slide, Text
 } from 'spectacle';
 
-import docker from './../../res/img/DockerPresentation/docker-minimal.png';
+import docker from './../../res/img/DockerPresentation/container-networking.png';
 
 
 const ContainerNetworking = (
-  <Slide transition={['fade']} bgDarken={0.85} bgImage={docker}>
+  <Slide transition={['fade']} bgDarken={0.75} bgImage={docker}>
     <Heading size={2} caps fit textColor="primary" textFont="primary">
       Container Networking
     </Heading>
