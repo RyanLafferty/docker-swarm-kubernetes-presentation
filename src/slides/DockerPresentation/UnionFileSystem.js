@@ -3,7 +3,7 @@ import {
   Heading, Slide, Text, Appear
 } from 'spectacle';
 
-import docker from './../../res/img/DockerPresentation/docker-minimal.png';
+import docker from './../../res/img/DockerPresentation/union-file-system-simple.jpg';
 
 
 const UnionFileSystem = (
