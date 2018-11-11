@@ -3,7 +3,7 @@ import {
   Heading, Slide, Text, Link
 } from 'spectacle';
 
-import docker from './../../res/img/DockerPresentation/docker-minimal.png';
+import docker from './../../res/img/DockerPresentation/octocat.png';
 
 
 const SwarmExample = (
