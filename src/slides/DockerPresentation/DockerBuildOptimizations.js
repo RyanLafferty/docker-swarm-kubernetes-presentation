@@ -7,7 +7,7 @@ import docker from './../../res/img/DockerPresentation/docker-build-optimization
 
 
 const DockerBuildOptimizations = (
-  <Slide transition={['fade']} bgDarken={0.85} bgImage={docker}>
+  <Slide transition={['fade']} bgDarken={0.90} bgImage={docker}>
     <Heading size={2} caps fit textColor="primary" textFont="primary">
       Docker Build Optimizations
     </Heading>

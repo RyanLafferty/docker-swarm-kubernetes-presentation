@@ -15,7 +15,7 @@ const DockerFileSystem = (
       ...
     </Text>
     <Text textColor="tertiary">
-      Docker contains make use of a <b>Union File System</b>
+      Docker makes use of a <b>Union File System</b>
     </Text>
   </Slide>
 );

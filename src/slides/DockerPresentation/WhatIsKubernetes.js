@@ -3,7 +3,7 @@ import {
   Heading, Slide, Text
 } from 'spectacle';
 
-import docker from './../../res/img/DockerPresentation/kubernetes-architecture.png';
+import docker from './../../res/img/DockerPresentation/kubernetes-architecture.jpg';
 
 
 const WhatIsKubernetes = (

@@ -3,11 +3,11 @@ import {
   Heading, Slide, Text
 } from 'spectacle';
 
-import docker from './../../res/img/DockerPresentation/docker-minimal.png';
+import docker from './../../res/img/DockerPresentation/docker-types-of-mounts.png';
 
 
 const OutsideUnionFileSystem = (
-  <Slide transition={['fade']} bgDarken={0.85} bgImage={docker}>
+  <Slide transition={['fade']} bgDarken={0.90} bgImage={docker}>
     <Heading size={2} caps fit textColor="primary" textFont="primary">
       Outside The Union File System
     </Heading>
