@@ -15,7 +15,7 @@ const HowToUseKubernetes = (
       ...
     </Text>
     <Text textColor="tertiary">
-      To utilize the Kubernetes Cluster, we use configuration file(s) which will define our service(s)git 
+      To utilize the Kubernetes Cluster, we use configuration file(s) which will define our service(s)
     </Text>
     <Text style={{ visibility: 'hidden' }}>
       ...
