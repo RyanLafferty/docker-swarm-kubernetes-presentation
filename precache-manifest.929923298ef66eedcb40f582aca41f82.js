@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/docker-swarm-kubernetes-presentation/static/media/docker-build-process.b595b80b.svg"
   },
   {
-    "revision": "55e7382448fb164b281a",
-    "url": "/docker-swarm-kubernetes-presentation/static/js/main.55e73824.chunk.js"
+    "revision": "8cc980d4e7ceda9daab3",
+    "url": "/docker-swarm-kubernetes-presentation/static/js/main.8cc980d4.chunk.js"
   },
   {
     "revision": "c12f6f6850b1659611a58f57b01f6691",
@@ -84,15 +84,15 @@ self.__precacheManifest = [
     "url": "/docker-swarm-kubernetes-presentation/static/media/how-to-use-swarm.7de2c10a.png"
   },
   {
-    "revision": "ddbf6211ef59e2aa02b0",
-    "url": "/docker-swarm-kubernetes-presentation/static/js/1.ddbf6211.chunk.js"
+    "revision": "29a9a6f535e674f9d7be",
+    "url": "/docker-swarm-kubernetes-presentation/static/js/1.29a9a6f5.chunk.js"
   },
   {
-    "revision": "ddbf6211ef59e2aa02b0",
-    "url": "/docker-swarm-kubernetes-presentation/static/css/1.f511bddf.chunk.css"
+    "revision": "29a9a6f535e674f9d7be",
+    "url": "/docker-swarm-kubernetes-presentation/static/css/1.e99b10f4.chunk.css"
   },
   {
-    "revision": "eba70f9697a889a58ed4b6497400c700",
+    "revision": "9c08f502adf6fce5914a7942caadab3f",
     "url": "/docker-swarm-kubernetes-presentation/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/docker-swarm-kubernetes-presentation/precache-manifest.0e1ec2a879144a0c29d1dd5cd755ece9.js"
+  "/docker-swarm-kubernetes-presentation/precache-manifest.929923298ef66eedcb40f582aca41f82.js"
 );
 
 workbox.clientsClaim();

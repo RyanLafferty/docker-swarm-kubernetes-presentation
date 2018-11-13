@@ -1,9 +1,9 @@
 {
-  "main.js": "/docker-swarm-kubernetes-presentation/static/js/main.55e73824.chunk.js",
-  "main.js.map": "/docker-swarm-kubernetes-presentation/static/js/main.55e73824.chunk.js.map",
-  "static/css/1.f511bddf.chunk.css": "/docker-swarm-kubernetes-presentation/static/css/1.f511bddf.chunk.css",
-  "static/js/1.ddbf6211.chunk.js": "/docker-swarm-kubernetes-presentation/static/js/1.ddbf6211.chunk.js",
-  "static/js/1.ddbf6211.chunk.js.map": "/docker-swarm-kubernetes-presentation/static/js/1.ddbf6211.chunk.js.map",
+  "main.js": "/docker-swarm-kubernetes-presentation/static/js/main.8cc980d4.chunk.js",
+  "main.js.map": "/docker-swarm-kubernetes-presentation/static/js/main.8cc980d4.chunk.js.map",
+  "static/css/1.e99b10f4.chunk.css": "/docker-swarm-kubernetes-presentation/static/css/1.e99b10f4.chunk.css",
+  "static/js/1.29a9a6f5.chunk.js": "/docker-swarm-kubernetes-presentation/static/js/1.29a9a6f5.chunk.js",
+  "static/js/1.29a9a6f5.chunk.js.map": "/docker-swarm-kubernetes-presentation/static/js/1.29a9a6f5.chunk.js.map",
   "runtime~main.js": "/docker-swarm-kubernetes-presentation/static/js/runtime~main.1b7158ad.js",
   "runtime~main.js.map": "/docker-swarm-kubernetes-presentation/static/js/runtime~main.1b7158ad.js.map",
   "static/media/docker-swarm-workers.png": "/docker-swarm-kubernetes-presentation/static/media/docker-swarm-workers.dc4e9474.png",
@@ -25,8 +25,8 @@
   "static/media/how-to-use-swarm.png": "/docker-swarm-kubernetes-presentation/static/media/how-to-use-swarm.7de2c10a.png",
   "static/media/kubernetes-architecture.jpg": "/docker-swarm-kubernetes-presentation/static/media/kubernetes-architecture.672e8947.jpg",
   "static/media/kubernetes-deployment.png": "/docker-swarm-kubernetes-presentation/static/media/kubernetes-deployment.c12f6f68.png",
-  "static/css/1.f511bddf.chunk.css.map": "/docker-swarm-kubernetes-presentation/static/css/1.f511bddf.chunk.css.map",
+  "static/css/1.e99b10f4.chunk.css.map": "/docker-swarm-kubernetes-presentation/static/css/1.e99b10f4.chunk.css.map",
   "index.html": "/docker-swarm-kubernetes-presentation/index.html",
-  "precache-manifest.0e1ec2a879144a0c29d1dd5cd755ece9.js": "/docker-swarm-kubernetes-presentation/precache-manifest.0e1ec2a879144a0c29d1dd5cd755ece9.js",
+  "precache-manifest.929923298ef66eedcb40f582aca41f82.js": "/docker-swarm-kubernetes-presentation/precache-manifest.929923298ef66eedcb40f582aca41f82.js",
   "service-worker.js": "/docker-swarm-kubernetes-presentation/service-worker.js"
 }
