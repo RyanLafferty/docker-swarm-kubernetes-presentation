@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/docker-swarm-kubernetes-presentation/static/media/docker-build-process.b595b80b.svg"
   },
   {
-    "revision": "8cc980d4e7ceda9daab3",
-    "url": "/docker-swarm-kubernetes-presentation/static/js/main.8cc980d4.chunk.js"
+    "revision": "c732a19775e7ce952964",
+    "url": "/docker-swarm-kubernetes-presentation/static/js/main.c732a197.chunk.js"
   },
   {
     "revision": "c12f6f6850b1659611a58f57b01f6691",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "/docker-swarm-kubernetes-presentation/static/css/1.e99b10f4.chunk.css"
   },
   {
-    "revision": "9c08f502adf6fce5914a7942caadab3f",
+    "revision": "d3ca9ea8af7918de6a09c5d19a6e12dd",
     "url": "/docker-swarm-kubernetes-presentation/index.html"
   }
 ];
