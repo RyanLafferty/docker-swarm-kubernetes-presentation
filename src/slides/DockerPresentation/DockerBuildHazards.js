@@ -21,7 +21,7 @@ const DockerBuildHazards = (
     </Appear>
     <Appear>
       <Text textColor="tertiary">
-        <b>Latest:</b> Using the latest Docker image as a base can result in build suddenly breaking when a
+        <b>Latest:</b> Using the latest Docker image as a base can result in a build suddenly breaking when a
         new major version of the image is released
       </Text>
     </Appear>
